@@ -3,12 +3,15 @@
 
 /**
  * _abs - A function to compute the absolute value of an integer
- * @int: An integer that will be converted to a natural number
+ * @c: An integer that will be converted to a natural number
  *
- * Return : A natural number
+ * Return: Return positive number
  */
 
-int _abs(int)
+int _abs(int c)
 {
-	return (abs(int));
+	if (c >= 0)
+		return (n);
+	else
+		return (-n);
 }

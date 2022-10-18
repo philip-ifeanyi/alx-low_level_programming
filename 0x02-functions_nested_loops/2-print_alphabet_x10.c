@@ -1,4 +1,5 @@
 # include <stdio.h>
+#include "main.h"
 
 /**
  * print_alphabet_x10 - A program to print alphabets, lowercase
@@ -17,15 +18,4 @@ void print_alphabet_x10(void)
 		putchar ('\n');
 		i++;
 	}
-}
-
-/**
- * main - check code
- *
- * Return: Always 0
- */
-int main(void)
-{
-	print_alphabet_x10();
-	return (0);
 }

@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 /**
- * _isfigit -  A function that checks for digits
+ * _isdigit -  A function that checks for digits
  * @c: the digit to be tested
  *
  * Return: 1 if digit and 0 otherwise

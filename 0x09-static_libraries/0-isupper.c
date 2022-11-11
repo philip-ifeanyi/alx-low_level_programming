@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isupper - check the code for Holberton School students.
+ * _isupper - check the code for ALX School students.
  *
  * @c: is an integer param
  *

@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * reset_to_98 - a function to update the value of a pointer to 98
- * @n: pointer to the address of the integer to be tested
+ * reset_to_98 - Takes a pointer to an int and updates
+ *               the value it points to to 98.
+ * @n: The pointer to an int.
  */
-
 void reset_to_98(int *n)
 {
 	*n = 98;

@@ -1,1 +1,1 @@
-This is a  folder containing tasks on pointers, arrays and strings in C
+0x05-pointers_arrays_strings
